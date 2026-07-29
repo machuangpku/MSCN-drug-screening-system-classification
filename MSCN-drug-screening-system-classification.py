@@ -203,10 +203,17 @@ def subtype_merge_loss(features, y_major_tensor, y_sub_tensor):
 # ==========================================
 # 9. Plot Settings
 # ==========================================
+# colors_plot = {
+#     0: '#FF4D4F',
+#     1: '#2ECC71',
+#     2: '#3498DB'
+# }
+
+
 colors_plot = {
-    0: '#B47575',
-    1: '#789B84',
-    2: '#7A96BA'
+    0: '#E45756',  
+    1: '#54A24B',  
+    2: '#4C78A8'   
 }
 
 marker_map = {
